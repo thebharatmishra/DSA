@@ -14,7 +14,7 @@ int size =0;
 
 int main(){
 
-
+printf("GAs");
 
     return 0;
 }
