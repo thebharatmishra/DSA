@@ -2,4 +2,5 @@
 
 This repo is just me learning DSA and notes that I take while doing so.
 
-[Linked List](/DSA/LinkedList/)
+- [Linked List](/DSA/LinkedList/)
+- [Stack](/DSA/Stack/)
