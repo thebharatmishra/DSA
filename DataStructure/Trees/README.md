@@ -10,3 +10,5 @@ Non-Linear, Heirarichal Data Structure.
 - Siblings: Nodes whose parents are same or common parent.
 - Descendant
 - Leaf
+
+![](../../assets/tree.png)
