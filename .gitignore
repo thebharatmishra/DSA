@@ -33,5 +33,5 @@
 
 # VSCode extras
 *.vscode
-
+*.drawio
 # Replit extras
