@@ -38,3 +38,7 @@ like factorial at 0! = 1.
 
 - Base case - Returning the function is mandatory.
 - Recursive relation.
+
+When there is base case we know when to stop. When there is no base case, Segmentation fault occurs.
+
+Stack Overflow happens as the program does not stops.So base case is mandatory.
