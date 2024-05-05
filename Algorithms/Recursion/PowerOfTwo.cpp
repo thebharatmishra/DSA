@@ -7,6 +7,9 @@ using namespace std;
 int main()
 {
     // Code here.
-
+    int n;
+    cin >> n;
+    int ans = power(n);
+    cout << ans << endl;
     return 0;
 }
