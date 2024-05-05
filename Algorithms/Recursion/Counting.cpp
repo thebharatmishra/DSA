@@ -3,11 +3,11 @@
 
 using namespace std;
 // Define a Class or Method
-int print(int n)
+void print(int n)
 {
     if (n == 0)
     {
-        return 0;
+        return;
     }
 
     cout << n << endl;
