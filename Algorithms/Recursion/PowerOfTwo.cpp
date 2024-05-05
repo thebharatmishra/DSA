@@ -3,7 +3,11 @@
 
 using namespace std;
 // Define a Class or Method
-
+int power(int n)
+{
+    if (n == 0)
+        return 1;
+}
 int main()
 {
     // Code here.
