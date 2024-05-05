@@ -3,7 +3,11 @@
 
 using namespace std;
 // Define a Class or Method
-
+void print(int n)
+{
+    if (n == 0)
+        return;
+}
 int main()
 {
     // Code here.
