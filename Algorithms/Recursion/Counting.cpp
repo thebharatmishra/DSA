@@ -10,8 +10,8 @@ void print(int n)
         return;
     }
 
-    cout << n << endl;
     print(n - 1);
+    cout << n << endl;
 }
 int main()
 {
