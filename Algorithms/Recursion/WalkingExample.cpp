@@ -7,8 +7,11 @@ void reachHome(int src, int dest)
 {
     cout << "Source: " << src << "Destination: " << dest << endl;
     if (src == dest)
+    {
+
         cout << "Reached the destination" << endl;
-    return;
+        return;
+    }
     src++;
     reachHome(src, dest);
 }
