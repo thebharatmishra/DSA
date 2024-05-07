@@ -11,6 +11,7 @@ int countDistinctWaysToClimbStair(long long nStairs)
         return 1;
 
     int ans = countDistinctWaysToClimbStair(nStairs - 1) + countDistinctWaysToClimbStair(nStairs - 2);
+    return ans;
 }
 int main()
 {
