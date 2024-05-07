@@ -9,9 +9,9 @@ void reachHome()
 int main()
 {
     // Code here.
-    int dist = 10;
+    int dest = 10;
     int src = 1;
 
-    reachHome(src, dist);
+    reachHome(src, dest);
     return 0;
 }
