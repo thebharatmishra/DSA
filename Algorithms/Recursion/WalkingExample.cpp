@@ -8,7 +8,8 @@ void reachHome(int src, int dest)
     if (src == dest)
         cout << "Reached the destination";
     return;
-    src++ reachHome(src, dest);
+    src++;
+    reachHome(src, dest);
 }
 int main()
 {
