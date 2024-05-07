@@ -7,7 +7,7 @@ void fibonacci(int n)
 {
 
     // base case
-    n = n * fibonacci(n);
+    n = n + fibonacci(n);
 }
 int main()
 {
