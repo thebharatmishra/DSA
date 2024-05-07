@@ -3,11 +3,15 @@
 
 using namespace std;
 // Define a Class or Method
-void fibonacci(int n)
+int fibonacci(int n)
 {
-
     // base case
-    n = n + fibonacci(n);
+    if (n == 0)
+        return 0;
+    if (n == 1)
+        return 1;
+
+    int ans = fibonacci(n - 1) + fibonacci(n - 2);
 }
 int main()
 {
