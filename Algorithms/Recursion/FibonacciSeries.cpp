@@ -17,6 +17,8 @@ int fibonacci(int n)
 int main()
 {
     // Code here.
-
+    int n;
+    cin >> n;
+    cout << "The value of Fibonacci is " << n << endl;
     return 0;
 }
