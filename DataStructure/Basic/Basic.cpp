@@ -13,7 +13,7 @@ int main()
     cout << "\t DioDaint \n";
     cin >> x >> y;
     float bharat69mishra = 69.420;
-    long z = 423242432235;
+    long z = 4232424325;
     long long c = 2432222223253233323;
     cout << c;
     return 0;
