@@ -8,9 +8,9 @@ using namespace std;
 int main()
 {
     // Code here.
-    int x;
+    int x, y;
     cout << "DioDaint" << endl;
     cout << "\t DioDaint \n";
-    cin >> x;
+    cin >> x >> y;
     return 0;
 }
