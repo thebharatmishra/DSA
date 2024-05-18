@@ -9,7 +9,7 @@ int main()
 {
     // Code here.
     cout << "DioDaint" << endl;
-    cout << "\tDioDaint \n";
+    cout << "\t DioDaint \n";
 
     return 0;
 }
