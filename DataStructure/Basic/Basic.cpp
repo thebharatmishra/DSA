@@ -12,5 +12,6 @@ int main()
     cout << "DioDaint" << endl;
     cout << "\t DioDaint \n";
     cin >> x >> y;
+    float bharat69mishra = 69.420;
     return 0;
 }
