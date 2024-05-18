@@ -1,7 +1,7 @@
 // Necessary Imports
+// #include <bits/stdc++.h>
 #include <iostream>
-#include <math.h>
-#include <string>
+
 using namespace std;
 // Define a Class or Method
 
