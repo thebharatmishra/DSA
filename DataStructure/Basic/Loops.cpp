@@ -15,7 +15,7 @@ int main()
     int i = 0;
     while (i < 5)
     {
-        cout << "BACKSH<3TS";
+        cout << " BACKSH<3TS ";
         i = i + 1;
     }
     return 0;
