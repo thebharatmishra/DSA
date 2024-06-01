@@ -12,7 +12,7 @@ int main()
         cout << "I love you <3 ";
     }
 
-    int i;
+    int i = 0;
     while (i < 5)
     {
         cout << "BACKSH<3TS";
