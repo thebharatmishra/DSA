@@ -8,5 +8,6 @@ int main()
 {
     // Code here.
     string s = "Bhanu";
+    int len = s.size();
     return 0;
 }
