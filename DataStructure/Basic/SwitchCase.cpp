@@ -15,10 +15,8 @@ int main()
         cout << "Monday";
     case 2:
         cout << "Tuesday";
-
     case 3:
         cout << "Wednesday";
-
     case 4:
         cout << "Thursday";
     case 5:
