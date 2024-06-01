@@ -9,7 +9,7 @@ int main()
     // Code here.
     for (int i = 0; i < 69; i++)
     {
-        cout << "I love you <3 " << i;
+        cout << "I love you <3 ";
     }
 
     return 0;
