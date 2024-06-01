@@ -14,7 +14,7 @@ int main()
     {
         cout << "F";
     }
-    // The difference between & and && is that && returns True or False, while & returns 0 or 1 or numeric value
+    // The difference between & and && is that && returns True or False (boolean value), while & returns 0 or 1 (numeric value)
     else if (marks > 25 & marks < 44)
     {
         cout << "E";
