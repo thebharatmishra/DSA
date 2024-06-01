@@ -18,5 +18,10 @@ int main()
         cout << " BACKSH<3TS ";
         i = i + 1;
     }
+
+    do
+    {
+        cout << "AhAhhaAAHhhhHaaAAh";
+    } while (i < 5);
     return 0;
 }
