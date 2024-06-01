@@ -16,19 +16,19 @@ int main()
     }
     else if (marks > 25 & marks < 44)
     {
-        cout << "";
+        cout << "E";
     }
     else if (marks > 45 & marks < 49)
     {
-        cout << "";
+        cout << "D";
     }
     else if (marks > 50 & marks < 59)
     {
-        cout << "";
+        cout << "C";
     }
     else if (marks > 60 & marks < 79)
     {
-        cout << "";
+        cout << "B";
     }
     else if (marks > 80 & marks < 100)
     {
