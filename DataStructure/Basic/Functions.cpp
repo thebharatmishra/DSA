@@ -21,6 +21,8 @@ void doSomething(string &s)
     cout << s << endl;
 }
 
+// Arrays should be passed value it self.
+
 int main()
 {
     string s = "Bhanu";
