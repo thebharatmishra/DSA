@@ -12,9 +12,16 @@ int sum(int num1, int num2)
     return num1 + num2;
 }
 
+// pass by reference
+void doSomething(string s)
+{
+    s[0] = 't';
+    cout << s << endl;
+}
+
 int main()
 {
-    cout << sum(6, 9); 
+    cout << sum(6, 9);
     // Code here.
     return 0;
 }
