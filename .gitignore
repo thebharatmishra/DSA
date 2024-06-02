@@ -35,3 +35,8 @@
 *.vscode
 *.drawio
 # Replit extras
+
+
+# config Extras
+input.txt
+output.txt
