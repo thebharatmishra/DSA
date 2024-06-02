@@ -23,6 +23,7 @@ int main()
 {
     string s = "Bhanu";
     doSomething(s);
+    cout << s << endl;
     cout << sum(6, 9);
     // Code here.
     return 0;
