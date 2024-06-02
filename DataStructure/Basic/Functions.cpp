@@ -5,7 +5,6 @@ using namespace std;
 // Define a Class or Method
 void printName(string name)
 {
-
     cout << name;
 }
 
