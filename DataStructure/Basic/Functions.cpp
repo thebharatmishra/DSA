@@ -7,6 +7,9 @@ void printName(string name)
 {
     cout << name;
 }
+int sum(int num1,int num2){
+    return num1+num2;
+}
 
 int main()
 {
