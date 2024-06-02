@@ -12,8 +12,10 @@ int sum(int num1, int num2)
     return num1 + num2;
 }
 
+// pass by value
+// void doSomething(string s)
 // pass by reference
-void doSomething(string s)
+void doSomething(string &s)
 {
     s[4] = 't';
     cout << s << endl;
