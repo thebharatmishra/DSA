@@ -21,7 +21,7 @@ void doSomething(string &s)
     cout << s << endl;
 }
 
-// Arrays should be passed value it self.
+// Arrays should be passed value it self. Others vectors,lists etc. should be referenced.
 
 int main()
 {
