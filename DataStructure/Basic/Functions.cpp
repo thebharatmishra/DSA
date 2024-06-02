@@ -21,6 +21,7 @@ void doSomething(string s)
 
 int main()
 {
+    string s = "Bhanu";
     cout << sum(6, 9);
     // Code here.
     return 0;
