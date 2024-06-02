@@ -22,7 +22,7 @@ void doSomething(string s)
 int main()
 {
     string s = "Bhanu";
-
+    doSomething(s);
     cout << sum(6, 9);
     // Code here.
     return 0;
