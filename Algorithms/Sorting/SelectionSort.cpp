@@ -29,6 +29,7 @@ void selection_sort(int arr[], int n)
             if (arr[i] < arr[mini])
             {
                 mini = j;
+                cout << j;
             }
         }
         int temp = arr[mini];
