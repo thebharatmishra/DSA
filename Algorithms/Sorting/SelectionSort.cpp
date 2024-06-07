@@ -1,4 +1,4 @@
-#include <iostream>
+// #include <iostream>
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -39,10 +39,10 @@ void selection_sort(int arr[], int n)
 int main()
 {
     int n;
-    int arr[n];
     cin >> n;
+    int arr[n];
     // int *arr = new int[n];
-    cout << arr;
+    // cout << arr;
     for (int i = 0; i < n; i++)
         cin >> arr[i];
 
