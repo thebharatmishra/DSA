@@ -45,8 +45,11 @@ int main()
     // int *arr = new int[n];
     // cout << arr;
     for (int i = 0; i < n; i++)
+    {
+
         cin >>
             arr[i];
+    }
 
     selection_sort(arr, n);
 
