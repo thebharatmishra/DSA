@@ -25,6 +25,7 @@ void selection_sort(int arr[], int n)
         int mini = i;
         for (int j = 0; j <= i - 1; j++)
         {
+            cout << j;
             if (arr[i] < arr[mini])
             {
                 mini = j;
