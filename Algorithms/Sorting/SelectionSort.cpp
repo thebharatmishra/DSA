@@ -25,12 +25,14 @@ void selection_sort(int arr[], int n)
         int mini = i;
         for (int j = 0; j <= i - 1; j++)
         {
+            cout << i;
             cout << j;
             if (arr[i] < arr[mini])
             {
                 mini = j;
                 cout << j;
             }
+            cout << i;
         }
         int temp = arr[mini];
         arr[mini] = arr[i];
