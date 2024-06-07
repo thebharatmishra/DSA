@@ -6,7 +6,8 @@ using namespace std;
 
 int main()
 {
-    // Code here.
+int n;
+cin>>n;
 
     return 0;
 }
