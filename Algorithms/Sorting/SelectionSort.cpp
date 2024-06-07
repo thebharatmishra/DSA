@@ -41,7 +41,7 @@ int main()
     int n;
     cin >> n;
     int arr[n];
-    cout << arr[n];
+    // cout << arr[n];
     // int *arr = new int[n];
     // cout << arr;
     for (int i = 0; i < n; i++)
