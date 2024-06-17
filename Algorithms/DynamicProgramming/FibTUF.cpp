@@ -30,6 +30,6 @@ int main()
         prev2 = prev1;
         prev1 = curi;
     }
-
+    cout << prev1;
     return 0;
 }
